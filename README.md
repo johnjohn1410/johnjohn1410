@@ -22,7 +22,7 @@ Tenho 21 anos, estou cursando Engenharia da Computação na FIAP e atualmente so
 </div>
 <br>
 <br>
-<div>	
+<div align="center">	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnjohn1410&layout=donut&langs_count=7&theme=nightowl"></img>
 </div>
 
