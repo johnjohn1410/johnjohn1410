@@ -20,7 +20,9 @@ Tenho 21 anos, estou cursando Engenharia da Computação na FIAP e atualmente so
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 </div>
-<div >	
+<br>
+<br>
+<div>	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnjohn1410&layout=donut&langs_count=7&theme=nightowl"></img>
 </div>
 
