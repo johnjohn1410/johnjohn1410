@@ -3,7 +3,7 @@
 
 
 ## Sobre mim
-Tenho 21 anos, estou cursando Engenharia da Computação na FIAP e atualmente sou desenvolvedor trainee na Almaviva Solutions
+Tenho 22 anos, estou cursando Engenharia da Computação na FIAP e atualmente sou desenvolvedor trainee na Almaviva Solutions
 
 
 ## Habilidades
